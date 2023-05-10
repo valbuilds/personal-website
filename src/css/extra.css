@@ -1,0 +1,50 @@
+.grid {
+    display: grid;
+}
+
+.mt-3 {
+    margin-top: 3%;
+}
+
+.mb-3 {
+    margin-bottom: 3%;
+}
+
+.p-3 {
+    padding: 3%;
+}
+.p-1 {
+    padding: 1%;
+}
+
+.p-5 {
+    padding: 5%;
+}
+
+.bg-home {
+    background-image: radial-gradient(circle at 40% 49%, rgba(196, 196, 196,0.04) 0%, rgba(196, 196, 196,0.04) 50%,rgba(91, 91, 91,0.04) 50%, rgba(91, 91, 91,0.04) 100%),radial-gradient(circle at 32% 80%, rgba(42, 42, 42,0.04) 0%, rgba(42, 42, 42,0.04) 50%,rgba(186, 186, 186,0.04) 50%, rgba(186, 186, 186,0.04) 100%),radial-gradient(circle at 72% 99%, rgba(233, 233, 233,0.04) 0%, rgba(233, 233, 233,0.04) 50%,rgba(53, 53, 53,0.04) 50%, rgba(53, 53, 53,0.04) 100%),linear-gradient(148deg, rgb(126, 9, 68),rgb(223, 57, 181));
+}
+
+.cur-na {
+    cursor: no-drop !important;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bg-blurple {
+    background-color: #5865F2;
+}
+.bg-purple {
+    background-color: #6f42c1;
+}
+
+.text-centered {
+    text-align: center;
+}
+
+.timely-datepicker-1 {
+    position: relative;
+    margin-bottom: 1rem;
+}
